@@ -19,11 +19,6 @@ I'm always building up my technical skills to be able to answer interesting, imp
 
 Here's my email, feel free to reach out and get in touch: obandopadhyay@ucsd.edu
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
-  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api/top-langs?username=oishani-b&layout=compact&hide_border=true" />
-</p>
-
 
 <!---
 oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +34,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
   <a href="https://oishani-b.github.io">
     <img src = "https://img.icons8.com/ios/50/domain--v1.png"/></a>
+</p>
+
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api/top-langs?username=oishani-b&layout=compact&hide_border=true" />
 </p>
