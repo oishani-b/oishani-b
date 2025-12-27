@@ -1,15 +1,17 @@
 ### Hi, I'm Oishani!
 Natural Language Processing (NLP) | Machine Learning (ML) | Speech Tech | Data Science
 
+[Personal Website](oishani-b.github.io) and [CV](https://oishani-b.github.io/cv.pdf)
+
 - 💻🧐 Currently a graduate researcher at UCSD, in the Computational Social Science MS Program
-- 🤖æ Undergrad double major at UCSD in Cognitive Science with Machine Learning and Linguistics.
-- Interested in the intersections of language, technology, and perception, through computational linguistics, NLP, and applications of machine learning and data science to speech and text.
+- 🤖æ Undergrad double major at UCSD in Cognitive Science with Machine Learning and Linguistics
+- 🗣️📊 Interested in the intersections of language, technology, and perception, through computational linguistics, NLP, and applications of machine learning and data science to speech and text
+- 📈⚙️ Worked with ML models, agentic systems, and data science methods through internships, research, and projects
+- 🌍🧠 Currently working on applying neural network based methods to code-switched speech in low-resource languages and speech corpora from bilingual English speakers, as well as LLM benchmarks for use cases in the social sciences
 
-Through research, internships, and projects, I've worked with machine learning models, data science methods, and agentic systems. I'm always building up my technical skills to be able to answer interesting, impactful questions. My interdisciplinary background encourages me to approach problems from unique angles, and never stop learning.
+I'm always building up my technical skills to be able to answer interesting, impactful questions. My interdisciplinary background encourages me to approach problems from unique angles, and never stop learning.
 
-Currently, I'm working on applying neural network based methods to code-switched speech in low-resource languages, and phonetic differences in speech corpora from bilingual English speakers. I'm also working on LLM benchmarking for specific use cases in the social sciences, and identifying biases in language technology.
-
-Here's my personal website: [oishani-b.github.io](oishani-b.github.io), and my email: obandopadhyay@ucsd.edu, if you'd like to get in touch!
+Here's my email, feel free to reach out and get in touch: obandopadhyay@ucsd.edu
 
 <!---
 oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
