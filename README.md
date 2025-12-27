@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oishani Bandopadhyay @oishani-b
 ### Hi, I'm Oishani! @oishani-b
-#### NLP | ML | Speech Tech | Data Science
+NLP | ML | Speech Tech | Data Science
 
 
 
