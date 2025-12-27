@@ -19,9 +19,10 @@ I'm always building up my technical skills to be able to answer interesting, imp
 
 Here's my email, feel free to reach out and get in touch: obandopadhyay@ucsd.edu
 
-| | |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oishani-b&layout=compact&hide_border=true) |
+<p align="center">
+  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats-phi-one-44.vercel.app/api/top-langs?username=oishani-b&layout=compact&hide_border=true" />
+</p>
 
 
 <!---
