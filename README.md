@@ -20,8 +20,8 @@ I'm always building up my technical skills to be able to answer interesting, imp
 Here's my email, feel free to reach out and get in touch: obandopadhyay@ucsd.edu
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishani-b&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oishani-b&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="GitHub stats for oishani-b" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishani-b&amp;layout=compact&amp;hide_border=true" alt="Top languages for oishani-b" />
 </p>
 
 <!---
