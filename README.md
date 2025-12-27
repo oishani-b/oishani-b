@@ -11,13 +11,18 @@
 
 - 💻🧐 Currently a graduate researcher at UCSD, in the Computational Social Science MS Program
 - 🤖æ Undergrad double major at UCSD in Cognitive Science with Machine Learning and Linguistics
-- 🗣️📊 Interested in the intersections of language, technology, and perception, through computational linguistics, NLP, and applications of machine learning and data science to speech and text
+- 🗣️📊 Interested in the intersections of language, technology, and perception, through computational linguistics, natural language processing, and applications of machine learning and data science to speech and text
 - 📈⚙️ Worked with ML models, agentic systems, and data science methods through internships, research, and projects
 - 🌍🧠 Ongoing work on applying neural network based methods to code-switched speech in low-resource languages and speech corpora from bilingual English speakers, as well as LLM benchmarks for use cases in the social sciences
 
 I'm always building up my technical skills to be able to answer interesting, impactful questions. My interdisciplinary background encourages me to approach problems from unique angles, and never stop learning.
 
 Here's my email, feel free to reach out and get in touch: obandopadhyay@ucsd.edu
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oishani-b&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishani-b&layout=compact&hide_border=true" />
+</p>
 
 <!---
 oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
