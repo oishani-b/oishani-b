@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Oishani Bandopadhyay @oishani-b
-### Hi, I'm Oishani! @oishani-b
-NLP | ML | Speech Tech | Data Science
+### Hi, I'm Oishani!
+Natural Language Processing (NLP) | Machine Learning (ML) | Speech Tech | Data Science
 
+I'm currently a graduate researcher at UCSD, in the Computational Social Science MS Program. As an undergraduate at UCSD, I double-majored in Cognitive Science with a Specialization in Machine Learning and Neural Computation, and Linguistics. I'm interested in the intersections of language, technology, and perception, through computational linguistics, natural language processing, and applications of machine learning and data science to speech and text.
 
+Through research, internships, and projects, I've worked with machine learning models, data science methods, and agentic systems. I'm always building up my technical skills to be able to answer interesting, impactful questions. My interdisciplinary background encourages me to approach problems from unique angles, and never stop learning.
 
-- 👀 I’m interested in Machine Learning, Natural Language Processing, Data Science, and Linguistics!
-- 🌱 I’m currently learning more about machine learning models and generative AI applications.
-- 📫 How to reach me: obandopadhyay@ucsd.edu or bandopadhyayoishani@gmail.com
-- 😄 Pronouns: she/her
+Currently, I'm working on applying neural network based methods to code-switched speech in low-resource languages, and phonetic differences in speech corpora from bilingual English speakers. I'm also working on LLM benchmarking for specific use cases in the social sciences, and identifying biases in language technology.
+
+Here's my personal website: [oishani-b.github.io](oishani-b.github.io), and my email: obandopadhyay@ucsd.edu, if you'd like to get in touch!
 
 <!---
 oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center"><a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a><a href="https://github.com/oishani-b"><img src="https://img.icons8.com/ios-glyphs/48/github.png"/></a><a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a></p>
-
+src="https://img.icons8.com/?size=100&id=1349&format=png&color=000000"
