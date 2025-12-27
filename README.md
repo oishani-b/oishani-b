@@ -9,18 +9,12 @@ oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/oishani-b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30"/>
-  </a>
-</p>
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oishani%20Bandopadhyay-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![GitHub](https://img.shields.io/badge/GitHub-oishani--b-black?style=flat&logo=github)](https://github.com/oishani-b)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://YOUR_WEBSITE)
+
 
 
