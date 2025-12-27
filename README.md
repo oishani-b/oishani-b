@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Oishani Bandopadhyay @oishani-b
+### Hi, I'm Oishani! @oishani-b
+#### NLP | ML | Speech Tech | Data Science
+
+
+
 - 👀 I’m interested in Machine Learning, Natural Language Processing, Data Science, and Linguistics!
 - 🌱 I’m currently learning more about machine learning models and generative AI applications.
 - 📫 How to reach me: obandopadhyay@ucsd.edu or bandopadhyayoishani@gmail.com
