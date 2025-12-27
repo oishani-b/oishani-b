@@ -1,7 +1,33 @@
 ### Hi, I'm Oishani!
 Natural Language Processing (NLP) | Machine Learning (ML) | Speech Tech | Data Science
+<p>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=semantic-release&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speech%20Tech-6B21A8?style=flat&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-0F766E?style=flat&logo=python&logoColor=white" />
+</p>
 
-[Personal Website](oishani-b.github.io) and [CV](https://oishani-b.github.io/cv.pdf)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" />
+</p>
+
+
+[Personal Website](https://oishani-b.github.io) and [CV](https://oishani-b.github.io/cv.pdf)
 
 - 💻🧐 Currently a graduate researcher at UCSD, in the Computational Social Science MS Program
 - 🤖æ Undergrad double major at UCSD in Cognitive Science with Machine Learning and Linguistics
