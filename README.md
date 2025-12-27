@@ -9,17 +9,5 @@ oishani-b/oishani-b is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/oishani-b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30"/>
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a><span style="margin-left:16px;"></span><a href="https://github.com/oishani-b"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></a><span style="margin-left:16px;"></span><a href="mailto:YOUR_EMAIL"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30"/></a></p>
 
