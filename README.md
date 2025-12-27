@@ -10,11 +10,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oishani-bandopadhyay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/oishani-b">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30"/>
   </a>
 </p>
+
 
