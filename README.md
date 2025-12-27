@@ -7,7 +7,7 @@ Natural Language Processing (NLP) | Machine Learning (ML) | Speech Tech | Data S
 - 🤖æ Undergrad double major at UCSD in Cognitive Science with Machine Learning and Linguistics
 - 🗣️📊 Interested in the intersections of language, technology, and perception, through computational linguistics, NLP, and applications of machine learning and data science to speech and text
 - 📈⚙️ Worked with ML models, agentic systems, and data science methods through internships, research, and projects
-- 🌍🧠 Currently working on applying neural network based methods to code-switched speech in low-resource languages and speech corpora from bilingual English speakers, as well as LLM benchmarks for use cases in the social sciences
+- 🌍🧠 Ongoing work on applying neural network based methods to code-switched speech in low-resource languages and speech corpora from bilingual English speakers, as well as LLM benchmarks for use cases in the social sciences
 
 I'm always building up my technical skills to be able to answer interesting, impactful questions. My interdisciplinary background encourages me to approach problems from unique angles, and never stop learning.
 
